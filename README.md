@@ -1,7 +1,6 @@
-# VerySimpleTetris
-is this tetris???
+# BreakBlock
+This is not breakbrick
 made by namutree0345\
-사실 테트리스인지 뭔지 모르겠음
 
 ## Download
 Clone or Download **is not download button**
