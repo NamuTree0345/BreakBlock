@@ -1,5 +1,6 @@
 # BreakBlock
-This is not breakbrick
+![https://circleci.com/gh/NamuTree0345/BreakBlock.svg?style=svg]()
+This is not breakbrick\
 made by namutree0345\
 
 ## Download
