@@ -44,7 +44,8 @@ namespace Test.GUICont
                             Process.Start("http://github.com/NamuTree0345/BreakBlock");
                             break;
                         case ConsoleKey.S:
-                            new GameMain(rf);
+                            //new GameMain(rf);
+                            new GameSelect(true, rf);
                             break;
                         case ConsoleKey.E:
                             Console.WriteLine("This is Developing...");
